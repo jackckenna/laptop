@@ -1,6 +1,8 @@
 # Sparta Global Laptop Config
 
 This script is designed to install and configure Sparta student and trainer macOS machines.
+Changed this script to test pull requests 
+fork the change..
 
 ### Manual Steps to install
 
